@@ -1,0 +1,27 @@
+/* Inter Font */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://rsms.me/inter/font-files/Inter-Regular.woff2') format('woff2'),
+       url('https://rsms.me/inter/font-files/Inter-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://rsms.me/inter/font-files/Inter-SemiBold.woff2') format('woff2'),
+       url('https://rsms.me/inter/font-files/Inter-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://rsms.me/inter/font-files/Inter-Bold.woff2') format('woff2'),
+       url('https://rsms.me/inter/font-files/Inter-Bold.woff') format('woff');
+} 
